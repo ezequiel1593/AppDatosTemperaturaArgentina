@@ -1,1 +1,17 @@
-
+Package: Shiny
+Type: Package
+Title: Shiny Web Application
+Version: 1.1
+Author: Ezequiel Elias
+Maintainer: Ezequiel Elias
+Description: An OpenCPU Application to analyze max and min temp.
+License: GPL
+LazyData: yes
+Imports:
+    here,
+    DT,
+    ggplot2,
+    dplyr,
+    lubridate,
+    shiny,
+    rsconnect
