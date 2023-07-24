@@ -15,3 +15,4 @@ Imports:
     lubridate,
     shiny,
     rsconnect
+RoxygenNote: 6.1.0
