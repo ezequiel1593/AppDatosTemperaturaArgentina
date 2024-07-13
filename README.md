@@ -7,4 +7,11 @@ Una webapp con datos de temperatura mínima y máxima diaria de estaciones argen
 Sin embargo, estos datos faltantes pueden ser cumplimentados con la utilización de datos horarios, principalmente en aquellas estaciones que cuentan con observaciones horarias las 24 horas. Entonces, para aquellos casos donde sea posible, se implementará esta cumplimetación de los datos, pero primeramente se deberá realizar un análisis de los datos horarios.</p>
 <p>La siguiente tabla muestra la disponibilidad de datos horarios para diferentes estaciones:</p>
 
-<table></table>
+<table>
+<tbody>
+<tr>
+<td align="center">Estaci&oacute;n</td>
+<td align="center"> Períodos con 24 observaciones diarias </td>
+</tr>  
+</tbody>
+</table>
